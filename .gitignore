@@ -13,6 +13,8 @@ $RECYCLE.BIN/
 *.msi
 *.msm
 *.msp
+# eclipse project
+*.class
 
 # Windows shortcuts
 *.lnk
